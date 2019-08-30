@@ -43,5 +43,23 @@ subtitle = ""
   icon_pack = "fab"
   name = "Jira"
   description = "90%"
-  
+
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
+  description = "90%"
+
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+  description = "90%"
+ 
+ [[feature]]
+  icon = "stack-overflow"
+  icon_pack = "fab"
+  name = "SO"
+  description = "90%"
+
 +++
