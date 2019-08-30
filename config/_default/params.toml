@@ -5,8 +5,7 @@
 #   Latest themes (may require updating Academic): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-#theme = "minimal"
-color_theme = "Mr Robot"
+theme = "minimal"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -55,7 +54,7 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 # `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
@@ -69,8 +68,8 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "test@example.org"
-phone = "+1 (901) 972 2708"
-address = "Building 1 Room 1, UTA, Texas, 27103, USA"
+phone = "888 888 88 88"
+address = "Building 1 Room 1, Stanford University, California, 90210, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Monday 10:00 to 13:00<br>
@@ -82,7 +81,6 @@ appointment_url = "https://calendly.com"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
@@ -105,7 +103,7 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 0
+map = 2
 map_api_key = ""
 latitude = "37.4275"
 longitude = "-122.1697"
@@ -145,10 +143,10 @@ sharing = true
 [publications]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  #date_format = "January 2006"
+  date_format = "January 2006"
 
   # Citation style ("apa" or "mla")
-  #citation_style = "apa"
+  citation_style = "apa"
 
 # Configuration of project pages.
 [projects]
