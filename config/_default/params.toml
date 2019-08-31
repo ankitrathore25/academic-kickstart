@@ -69,8 +69,8 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "ankitrathore25@gmail.com"
-phone = "+1 (901) 972 2708"
-address = "Apt 129, Greek Row Dr., UTA, Texas, 17013, USA"
+phone = "+1 (972) 901 2708"
+address = "Apt 129, Greek Row Dr., Arlington, Texas, 17013, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
@@ -107,8 +107,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 2
 map_api_key = ""
-latitude = "37.4275"
-longitude = "-122.1697"
+latitude = "32.730590"
+longitude = "-97.121358"
 zoom = 15
 
 ############################
