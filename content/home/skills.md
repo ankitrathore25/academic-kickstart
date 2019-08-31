@@ -21,27 +21,57 @@ subtitle = ""
   description = "90%"
 
 [[feature]]
-  icon = "javascript"
+  icon = "database"
+  icon_pack = "fas"
+  name = "MySql"
+  description = "90%"
+  
+[[feature]]
+  icon = "js"
   icon_pack = "fab"
   name = "JS"
-  description = "90%"
+  description = "60%"
 
 [[feature]]
   icon = "html5"
   icon_pack = "fab"
   name = "HTML"
-  description = "90%"
+  description = "70%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "css3"
+  icon_pack = "fab"
+  name = "CSS"
+  description = "70%"
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+  description = "70%"
+  
+[[feature]]
+  icon = "jira"
+  icon_pack = "fab"
+  name = "JIRA"
+  description = "70%"
+  
+[[feature]]
+  icon = "jenkins"
+  icon_pack = "fab"
+  name = "Jenkins"
+  description = "60%"
+  
+#[[feature]]
+#  icon = "chart-line"
+#  icon_pack = "fas"
+#  name = "Statistics"
+#  description = "100%"  
+  
+#[[feature]]
+#  icon = "camera-retro"
+#  icon_pack = "fas"
+#  name = "Photography"
+#  description = "10%"
 
 +++
