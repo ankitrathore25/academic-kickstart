@@ -82,9 +82,10 @@ address = "Apt 129, Greek Row Dr., Arlington, Texas, 17013, USA"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Tweet", link = "https://twitter.com/ankitrthr4"},
+  {icon = "linkedin-in", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/ankitrathore25/"},
   {icon = "envelope", icon_pack = "fas", name = "Email", link = "mailto:[ankitrathore25@gmail.com]"},
-  {icon = "whatsapp", icon_pack = "fab", name = "WhatsApp", link = "https://api.whatsapp.com/send?phone=8802669344"},
+  {icon = "twitter", icon_pack = "fab", name = "Tweet", link = "https://twitter.com/ankitrthr4"},
+  {icon = "whatsapp", icon_pack = "fab", name = "WhatsApp", link = "https://api.whatsapp.com/send?phone=+918802669344"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   
