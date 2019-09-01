@@ -25,11 +25,13 @@ date_format = "Jan 2006"
   date_start = "2016-07-04"
   date_end = "2019-08-09"
   description = """
-  *Content Feed Personalization – Designed model through which publishers can target their audiences on basis of different demographics.
+  
+  * Content Feed Personalization – Designed model through which publishers can target their audiences on basis of different demographics.
   * Created Rule Engine – A platform through which different rules can be created for targeting right audiences.
   * Demographics Prediction – Gender Prediction using Bayesian Model and Webpage tendency.
   * Demographics Prediction – Age Group Prediction using Support Vector Machine(SVM) Model, Singular Value Decomposition(SVD) and Feature Vector.
   * Currently working on extrapolating demographics prediction model to the user's salary bracket.
+  
   """
 
 [[experience]]
@@ -49,8 +51,11 @@ date_format = "Jan 2006"
   date_start = "2014-07-01"
   date_end = "2015-05-31"
   description = """
-  *Managing all the events resources and leading the team to organize events smoothly.
-  *Organized many events like Joy of Giving, Blood Donation Camp, Sandwich distribution etc in the college campus.
-  *Volunteer at the program SANKALP – a teaching program in the nearby area of college campus."""
+  
+  * Managing all the events resources and leading the team to organize events smoothly.
+  * Organized many events like Joy of Giving, Blood Donation Camp, Sandwich distribution etc in the college campus.
+  * Volunteer at the program SANKALP – a teaching program in the nearby area of college campus.
+  
+  """
 
 +++
