@@ -73,6 +73,8 @@ user_groups:
 - Visitors
 ---
 
-Ankit Rathore is a graduate student at university of texas at arlington. His research interests include distributed data mining, image processing, pattern recognition. 
+Ankit Rathore is a graduate student at The University of Texas at Arlington. His research interests include data mining, information retrieval, image processing, pattern recognition. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+He has work experience of 3 years in software developement. He has worked upon some of the data mining related projects and want to enhance his skills in the same field. He also has rich experience in writing api, managing database and UI development.
+
+Apart from technical things, he is interested in finance, photography, hiking, travelling and bikes. 
