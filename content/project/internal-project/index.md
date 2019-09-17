@@ -1,6 +1,6 @@
 ---
 title: Data Mining Project
-summary: Cricket match win predictor and cricket players information database.
+summary: Book Review (Spoilers)
 tags:
 - Text Search
 - Data Mining
@@ -11,7 +11,7 @@ date: "2019-08-15T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Win predictor
+  caption: Book Search and Review
   focal_point: Smart
 
 links:
@@ -31,12 +31,27 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-This project is about cricket world. You can search for players and their related stats. Another stage of this project allow user to predict the winning chances of a team in a match.
+Project Idea:
+This project is about searching, classifying the books in different genre on the basis of short description. You can search for different books using search tab, read the summary or spoiler. Another stage of this project allow user to classify a book on the basis of the short summary or different parameters.
 Last stage of the project will be image classifier.
 
 Right now it is in development phase.
 
-Dataset in use : https://www.kaggle.com/seshadri95/odi-players-year-wise-batting-stats
+Dataset in use : hhttps://drive.google.com/uc?id=1NYV4F1WGJg6QbV0rOSXi6Y1gFLwic94a
+Data:
+{'user_id': '8842281e1d1347389f2ab93d60773d4d',                                                               
+ 'book_id': '13453029',                                                                                       
+ 'review_id': '46a6e1a14e8afc82d221fec0a2bd3dd0',                                                             
+ 'rating': 4,                                                                                                 
+// raw review text, where spoiler contents are surrounded by '(view spoiler)[' and '(hide spoiler)]'
+ 'review_text': "A fun fast paced book that sucks you in right away and doesn't let go.                       
+                 ... (view spoiler)[His role is to eliminate any doubt ... immediately. (hide spoiler)]       
+                 ... ",                                                                                       
+ 'date_added': 'Tue Dec 04 11:12:22 -0800 2012',                                                              
+ 'date_updated': 'Sat Jul 26 11:43:28 -0700 2014',                                                            
+ 'read_at': 'Tue Jul 08 00:00:00 -0700 2014',                                                                 
+ 'started_at': 'Wed Jul 02 00:00:00 -0700 2014',                                                              
+ 'n_votes': 5,                                                                                                
+ 'n_comments': 1} 
 
-This dataset doesn't contain all the attributes required for the match win predictor, so, I'll scrap the related data from different sports website to enrich the data further.
+Reference:https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/reviews
