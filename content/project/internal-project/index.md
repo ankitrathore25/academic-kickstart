@@ -32,13 +32,16 @@ url_video: ""
 slides: example
 ---
 Project Idea:
+
 This project is about searching, classifying the books in different genre on the basis of short description. You can search for different books using search tab, read the summary or spoiler. Another stage of this project allow user to classify a book on the basis of the short summary or different parameters.
 Last stage of the project will be image classifier.
 
 Right now it is in development phase.
 
 Dataset in use : hhttps://drive.google.com/uc?id=1NYV4F1WGJg6QbV0rOSXi6Y1gFLwic94a
+
 Data:
+
 {'user_id': '8842281e1d1347389f2ab93d60773d4d',                                                               
  'book_id': '13453029',                                                                                       
  'review_id': '46a6e1a14e8afc82d221fec0a2bd3dd0',                                                             
