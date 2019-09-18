@@ -1,6 +1,6 @@
 ---
-title: Data Mining Project
-summary: Book Review (Spoilers)
+title: Mobile phone recommendor
+summary: Get the ratings of the mobile phone on the basis of the specification and past user reviews. 
 tags:
 - Text Search
 - Data Mining
@@ -11,7 +11,7 @@ date: "2019-08-15T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Book Search and Review
+  caption: Phone rating
   focal_point: Smart
 
 links:
@@ -31,7 +31,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 Project Idea:
+
 
 This project is about searching, classifying the books in different genre on the basis of short description. You can search for different books using search tab, read the summary or spoiler. Another stage of this project allow user to classify a book on the basis of the short summary or different parameters.
 Last stage of the project will be image classifier.
