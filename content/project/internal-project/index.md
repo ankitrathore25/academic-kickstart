@@ -31,18 +31,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 
-[[buttons]]
-  id = "linkedin"
-  url = "https://www.linkedin.com/shareArticle?url={url}&title={title}"
-  title = "LinkedIn"
-  icon_pack = "fab"
-  icon = "linkedin-in"
-  enable = true
-
 ---
   
 *Project Idea:*
-
 
 This project is about searching, classifying the books in different genre on the basis of short description. You can search for different books using search tab, read the summary or spoiler. Another stage of this project allow user to classify a book on the basis of the short summary or different parameters.
 Last stage of the project will be image classifier.
