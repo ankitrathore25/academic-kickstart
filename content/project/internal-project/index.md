@@ -1,5 +1,5 @@
 ---
-title: Mobile phone recommender
+title: Rate My Phone
 summary: Get the ratings of the mobile phone on the basis of the specification and past user reviews. 
 tags:
 - Text Search
