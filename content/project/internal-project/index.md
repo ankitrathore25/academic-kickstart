@@ -13,13 +13,12 @@ external_link: ""
 image:
   caption: Phone rating
   focal_point: Smart
+
 links:
 - icon: external-link-square-alt
   icon_pack: fas
   name: Follow
   url: https://docs.google.com/document/d/1SSCX3nlDjLvkuEHQ4duhz5Y9wNN9Lw8nKZLhyUIz4no/edit?usp=sharing
-  
-links:
 - icon: twitter
   icon_pack: fab
   name: Follow
