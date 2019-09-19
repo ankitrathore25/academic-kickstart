@@ -1,5 +1,5 @@
 ---
-title: Mobile phone recommendor
+title: Mobile phone recommender
 summary: Get the ratings of the mobile phone on the basis of the specification and past user reviews. 
 tags:
 - Text Search
@@ -30,9 +30,18 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: example
+
+[[buttons]]
+  id = "linkedin"
+  url = "https://www.linkedin.com/shareArticle?url={url}&title={title}"
+  title = "LinkedIn"
+  icon_pack = "fab"
+  icon = "linkedin-in"
+  enable = true
+
 ---
-url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
-Project Idea:
+  
+*Project Idea:*
 
 
 This project is about searching, classifying the books in different genre on the basis of short description. You can search for different books using search tab, read the summary or spoiler. Another stage of this project allow user to classify a book on the basis of the short summary or different parameters.
