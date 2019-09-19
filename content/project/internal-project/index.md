@@ -51,6 +51,8 @@ There is no other website which is giving the review based on past user experien
 {{< figure library="true" src="classification.PNG" title="" lightbox="true" >}}
 >**3) Image Captioning**: (This idea is still under development) It will allow user to caption the images containing mobile phones with other objects.
 {{< figure library="true" src="imagecaption.PNG" title="" lightbox="true" >}}
+{{< figure library="true" src="imagecaption1.PNG" title="example output 1" lightbox="true" >}}
+{{< figure library="true" src="imagecaption2.PNG" title="example output 2" lightbox="true" >}}
 
 **Similar Sites**: Amazon, gsmarena, PhoneArena
 
