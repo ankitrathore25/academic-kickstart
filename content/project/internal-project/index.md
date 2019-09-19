@@ -18,7 +18,7 @@ links:
 - icon: external-link-square-alt
   icon_pack: fas
   name: PDF
-  url: https://docs.google.com/document/d/1SSCX3nlDjLvkuEHQ4duhz5Y9wNN9Lw8nKZLhyUIz4no/edit?usp=sharing
+  url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
 url_code: ""
 url_pdf: ""
 url_slides: ""
