@@ -48,11 +48,11 @@ quality or features. Getting the rating on the basis of mobile specification and
 
 **This project contains 3 different features:**
 -**1) Search**: It allows user to search for the available mobile phones in the market. A user can search for features, company, type etc. 
-{{< figure library="true" src="search.jpg" title="A caption" lightbox="true" >}}
+{{< figure library="true" src="search" title="A caption" lightbox="true" >}}
 -**2) Classifier**: It gives the rating to the mobile phone according to the their features and rating from user and review sites along with the past reviews of the users, based on their experience with the different features of the phones like company, processor, camera etc.
-{{< figure library="true" src="classification.jpg" title="A caption" lightbox="true" >}}
+{{< figure library="true" src="classification" title="A caption" lightbox="true" >}}
 -**3) Image Captioning**: (This idea is still under development) It will allow user to caption the images containing mobile phones with other objects.
-{{< figure library="true" src="imagecaption.jpg" title="A caption" lightbox="true" >}}
+{{< figure library="true" src="imagecaption" title="A caption" lightbox="true" >}}
 
 **Similar Sites**: Amazon, gsmarena, PhoneArena
 
