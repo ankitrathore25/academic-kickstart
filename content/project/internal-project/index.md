@@ -33,18 +33,16 @@ slides: example
 
 ---
   
-**Project Idea:**
-Purpose of this site or app is to provide a feature where user can search for the mobile phones and get the rating based on the past user reviews and ratings.
 
 **Abstract:**
-Whenever we want to buy mobile online, we search on the internet and check the rating of the mobile phones. 
-We always search for high rating phones within the budget. But just looking at the rating we can not choose the product as the rating is solely 
-given by the comparison or rating site. Sometimes mobile phones are given good rating just because it is from a good brand but actually a phone’s 
-popularity is measured by how many users are liking the mobile phone. So, there are reviewing sites and review section on the every comparison or 
-e-commerce site. Sometimes, it is frustrating to read all the reviews and generally every product has many reviews from user viz positive, negative, neutral. 
-For example, Amazon, provides the review of the mobile phones written by users but it includes many different parameters to evaluate the rating of the product. 
-In some cases users are not happy from delivery so they give very less rating to the product but this rating doesn’t have to do with the mobile phones 
-quality or features. Getting the rating on the basis of mobile specification and reviews cumulatively will be the best way to choose a mobile phone.
+Whenever we want to buy mobile online, we search on the internet and check the rating of the mobile phones. We always search for high rating phones within the budget. But just looking at the rating we can not choose the product as the rating is solely given by the comparison or rating sites. Sometimes mobile phones are given good rating just because it is from a good brand but actually a phone’s popularity is measured by how many users are liking the mobile phone. So, there are reviewing sites and review section on the every comparison or e-commerce site. Sometimes, it is frustrating to read all the reviews and generally every product has many reviews from user viz positive, negative, neutral. For example, Amazon, provides the review of the mobile phones written by users but it includes many different parameters to evaluate the rating of the product. In some cases users are not happy from delivery so they give very less rating to the product but this rating doesn’t have to do with the mobile phones quality or features. 
+
+**Project Idea:**
+Purpose of this site or app is to provide a feature where user can search for the mobile phones and get the rating based on the past user reviews and ratings. Rating the mobile phones on the basis of their features, ratings and user’s past experience with the phone’s features. Getting the rating on the basis of mobile specification and reviews cumulatively will be the best way to choose a mobile phone.
+
+**Why This Idea?**
+There is no other website which is giving the review based on past user experience of the mobile phones with the mobile companies or with the features of the phones.
+
 
 **This project contains 3 different features:**
 >**1) Search**: It allows user to search for the available mobile phones in the market. A user can search for features, company, type etc. 
