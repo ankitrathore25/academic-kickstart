@@ -46,6 +46,7 @@ There is no other website which is giving the review based on past user experien
 
 
 **This project contains 3 different features:**
+
 >**1) Search**: It allows user to search for the available mobile phones in the market. A user can search for features, company, type etc. 
 {{< figure library="true" src="search.PNG" title="" lightbox="true" >}}
 >**2) Classifier**: It gives the rating to the mobile phone according to the their features and rating from user and review sites along with the past reviews of the users, based on their experience with the different features of the phones like company, processor, camera etc.
