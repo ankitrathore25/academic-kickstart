@@ -13,7 +13,12 @@ external_link: ""
 image:
   caption: Phone rating
   focal_point: Smart
-
+links:
+- icon: external-link-square-alt
+  icon_pack: fas
+  name: Follow
+  url: https://docs.google.com/document/d/1SSCX3nlDjLvkuEHQ4duhz5Y9wNN9Lw8nKZLhyUIz4no/edit?usp=sharing
+  
 links:
 - icon: twitter
   icon_pack: fab
@@ -34,29 +39,26 @@ slides: example
 ---
   
 *Project Idea:*
+Purpose of this site or app is to provide a feature where user can search for the mobile phones and get the rating based on the past user reviews and ratings.
 
-This project is about searching, classifying the books in different genre on the basis of short description. You can search for different books using search tab, read the summary or spoiler. Another stage of this project allow user to classify a book on the basis of the short summary or different parameters.
-Last stage of the project will be image classifier.
+*Abstract*
+Whenever we want to buy mobile online, we search on the internet and check the rating of the mobile phones. 
+We always search for high rating phones within the budget. But just looking at the rating we can not choose the product as the rating is solely 
+given by the comparison or rating site. Sometimes mobile phones are given good rating just because it is from a good brand but actually a phone’s 
+popularity is measured by how many users are liking the mobile phone. So, there are reviewing sites and review section on the every comparison or 
+e-commerce site. Sometimes, it is frustrating to read all the reviews and generally every product has many reviews from user viz positive, negative, neutral. 
+For example, Amazon, provides the review of the mobile phones written by users but it includes many different parameters to evaluate the rating of the product. 
+In some cases users are not happy from delivery so they give very less rating to the product but this rating doesn’t have to do with the mobile phones 
+quality or features. Getting the rating on the basis of mobile specification and reviews cumulatively will be the best way to choose a mobile phone.
 
-Right now it is in development phase.
+This project contains 3 different features:
+1) *Search*: It allows user to search for the available mobile phones in the market. A user can search for features, company, type etc. 
+2) *Classifier*: It gives the rating to the mobile phone according to the their features and rating from user and review sites along with the past reviews of the users, based on their experience with the different features of the phones like company, processor, camera etc.
+3) *Image Captioning*: (This idea is still under development) It will allow user to caption the images containing mobile phones with other objects.
 
-Dataset in use : hhttps://drive.google.com/uc?id=1NYV4F1WGJg6QbV0rOSXi6Y1gFLwic94a
+Similar Sites: Amazon, gsmarena, PhoneArena
 
-Data:
+References Dataset: https://www.kaggle.com/arwinneil/gsmarena-phone-dataset, https://www.kaggle.com/ak47bluestack/amazonphonedataset
+None of the dataset is complete. I will scrap the few more attributes from the reviewing website to make the dataset rich.
 
-{'user_id': '8842281e1d1347389f2ab93d60773d4d',                                                               
- 'book_id': '13453029',                                                                                       
- 'review_id': '46a6e1a14e8afc82d221fec0a2bd3dd0',                                                             
- 'rating': 4,                                                                                                 
-// raw review text, where spoiler contents are surrounded by '(view spoiler)[' and '(hide spoiler)]'
- 'review_text': "A fun fast paced book that sucks you in right away and doesn't let go.                       
-                 ... (view spoiler)[His role is to eliminate any doubt ... immediately. (hide spoiler)]       
-                 ... ",                                                                                       
- 'date_added': 'Tue Dec 04 11:12:22 -0800 2012',                                                              
- 'date_updated': 'Sat Jul 26 11:43:28 -0700 2014',                                                            
- 'read_at': 'Tue Jul 08 00:00:00 -0700 2014',                                                                 
- 'started_at': 'Wed Jul 02 00:00:00 -0700 2014',                                                              
- 'n_votes': 5,                                                                                                
- 'n_comments': 1} 
 
-Reference:https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/reviews
