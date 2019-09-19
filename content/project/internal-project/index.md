@@ -17,12 +17,8 @@ image:
 links:
 - icon: external-link-square-alt
   icon_pack: fas
-  name: Follow
+  name: PDF
   url: https://docs.google.com/document/d/1SSCX3nlDjLvkuEHQ4duhz5Y9wNN9Lw8nKZLhyUIz4no/edit?usp=sharing
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/ankitrthr4
 url_code: ""
 url_pdf: ""
 url_slides: ""
