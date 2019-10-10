@@ -33,6 +33,8 @@ slides: example
 
 ---
   
+**Phase I Demo**
+http://ankitrathore.pythonanywhere.com/
 
 **Abstract:**
 Whenever we want to buy mobile online, we search on the internet and check the rating of the mobile phones. We always search for high rating phones within the budget. But just looking at the rating we can not choose the product as the rating is solely given by the comparison or rating sites. Sometimes mobile phones are given good rating just because it is from a good brand but actually a phone’s popularity is measured by how many users are liking the mobile phone. So, there are reviewing sites and review section on the every comparison or e-commerce site. Sometimes, it is frustrating to read all the reviews and generally every product has many reviews from user viz positive, negative, neutral. For example, Amazon, provides the review of the mobile phones written by users but it includes many different parameters to evaluate the rating of the product. In some cases users are not happy from delivery so they give very less rating to the product but this rating doesn’t have to do with the mobile phones quality or features. 
