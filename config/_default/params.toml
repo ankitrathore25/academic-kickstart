@@ -5,8 +5,8 @@
 #   Latest themes (may require updating Academic): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "Mr Robot"
-color_theme = "Dark"
+theme = "Minimal"
+color_theme = "Forest"
 
 # Enable users to switch between day and night mode?
 day_night = true
