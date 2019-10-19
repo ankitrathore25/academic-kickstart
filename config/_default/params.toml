@@ -6,7 +6,7 @@
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
 theme = "Mr Robot"
-color_theme = "Forest"
+color_theme = "Dark"
 
 # Enable users to switch between day and night mode?
 day_night = true
