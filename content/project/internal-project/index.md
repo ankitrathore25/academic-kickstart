@@ -32,7 +32,7 @@ url_video: ""
 slides: example
 
 ---
-  [Search]({{< ref "content/project/internal-project/Search.md" >}})
+  [Search]({{< ref "/opt/build/repo/content/project/internal-project/Search.md" >}})
   
 **Phase I Demo**
 http://dm2.pythonanywhere.com/
