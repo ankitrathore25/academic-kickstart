@@ -32,13 +32,8 @@ url_video: ""
 slides: example
 
 ---
-  [Search]({{< relref "/Search.md" >}})
-  [Classify]({{< relref "Search.md" >}})
-  [Image]({{< relref "project/internal-project/Search.md" >}})
-  [Image]({{< relref "/project/internal-project/Search.md" >}})
-  [Image]({{< relref "./project/internal-project/Search.md" >}})
-  [Image]({{< relref "../../project/internal-project/Search.md" >}})
-  [Image]({{< relref "../project/internal-project/Search.md" >}})
+  [Search]({{< relref "/content/project/internal-project/Search.md" >}})
+  
 **Phase I Demo**
 http://dm2.pythonanywhere.com/
 https://github.com/ankitrathore25/RateMyPhone
