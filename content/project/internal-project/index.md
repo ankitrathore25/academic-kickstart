@@ -33,8 +33,8 @@ slides: example
 
 ---
   [Search]{{< ref "/project/internal-project/Search.md" >}}
-  [Classify]{{< ref "content/project/internal-project/Classify.md" >}}
-  [Image]{{< ref "project/internal-project/ImageCaption.md" >}}
+  [Classify]{{< ref "./content/project/internal-project/Classify.md" >}}
+  [Image]{{< ref "./content/project/internal-project/_ImageCaption.md" >}}
 **Phase I Demo**
 http://dm2.pythonanywhere.com/
 https://github.com/ankitrathore25/RateMyPhone
