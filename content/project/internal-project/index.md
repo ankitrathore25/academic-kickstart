@@ -32,7 +32,9 @@ url_video: ""
 slides: example
 
 ---
-  
+  [Search]{{< ref "/Search.md" >}}
+  [Classify]{{< ref "/Classify.md" >}}
+  [Image]{{< ref "/ImageCaption.md" >}}
 **Phase I Demo**
 http://dm2.pythonanywhere.com/
 https://github.com/ankitrathore25/RateMyPhone

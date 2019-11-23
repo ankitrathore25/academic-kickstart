@@ -33,7 +33,7 @@ slides: example
 
 ---
   
-**This is new Search Page**   
+**This is new image Page**   
 
 **Phase I Demo**
 https://github.com/ankitrathore25/RateMyPhone
