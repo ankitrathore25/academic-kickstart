@@ -35,9 +35,7 @@ slides: example
   [Search]({{< ref "/opt/build/repo/content/project/internal-project/Search.md" >}})
   
 **Phase I Demo**
-http://dm2.pythonanywhere.com/
 https://github.com/ankitrathore25/RateMyPhone
-#http://dm3.pythonanywhere.com/
 #https://ratemyphone-api-heroku.herokuapp.com/
 
 **Abstract:**
