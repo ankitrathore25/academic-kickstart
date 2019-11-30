@@ -32,8 +32,7 @@ url_video: ""
 slides: example
 
 ---
-  [Search]({{< ref "/opt/build/repo/content/project/internal-project/Search.md" >}})
-  
+   
 **Phase I Demo**
 https://github.com/ankitrathore25/RateMyPhone
 #https://ratemyphone-api-heroku.herokuapp.com/
