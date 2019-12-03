@@ -15,24 +15,24 @@ image:
   focal_point: Smart
 
 links:
-- icon: external-link-square-alt
-  icon_pack: fas
+- icon: 
+  icon_pack: 
   name: Live Version
   url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
-- icon: external-link-square-alt
-  icon_pack: fas
+- icon: 
+  icon_pack: 
   name: PDF Proposal
   url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
-- icon: external-link-square-alt
-  icon_pack: fas
+- icon: 
+  icon_pack: 
   name: Search Blog
   url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
-- icon: external-link-square-alt
-  icon_pack: fas
+- icon: 
+  icon_pack: 
   name: Classifier Blog
   url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
-- icon: external-link-square-alt
-  icon_pack: fas
+- icon: 
+  icon_pack: 
   name: Image Caption Blog
   url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
 
