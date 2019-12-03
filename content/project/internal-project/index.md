@@ -23,6 +23,18 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
+- icon: external-link-square-alt
+  icon_pack: fas
+  name: Search
+  url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
+ - icon: external-link-square-alt
+  icon_pack: fas
+  name: Classifier
+  url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
+ - icon: external-link-square-alt
+  icon_pack: fas
+  name: Image Caption
+  url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -63,5 +75,7 @@ There is no other website which is giving the review based on past user experien
 
 **References Dataset**: https://www.kaggle.com/arwinneil/gsmarena-phone-dataset, https://www.kaggle.com/ak47bluestack/amazonphonedataset
 None of the dataset is complete. I will scrap the few more attributes from the reviewing website to make the dataset rich.
+
+
 
 
