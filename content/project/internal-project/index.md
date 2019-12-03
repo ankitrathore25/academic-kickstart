@@ -19,25 +19,23 @@ links:
   icon_pack: fas
   name: PDF
   url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-links:
 - icon: external-link-square-alt
   icon_pack: fas
   name: Search
   url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
-links:
 - icon: external-link-square-alt
   icon_pack: fas
   name: Classifier
   url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
-links:
 - icon: external-link-square-alt
   icon_pack: fas
   name: Image Caption
   url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
+
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
