@@ -17,19 +17,23 @@ image:
 links:
 - icon: external-link-square-alt
   icon_pack: fas
-  name: PDF
+  name: Live Version
   url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
 - icon: external-link-square-alt
   icon_pack: fas
-  name: Search
+  name: PDF Proposal
   url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
 - icon: external-link-square-alt
   icon_pack: fas
-  name: Classifier
+  name: Search Blog
   url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
 - icon: external-link-square-alt
   icon_pack: fas
-  name: Image Caption
+  name: Classifier Blog
+  url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
+- icon: external-link-square-alt
+  icon_pack: fas
+  name: Image Caption Blog
   url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
 
 url_code: ""
