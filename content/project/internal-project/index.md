@@ -18,7 +18,7 @@ links:
 - icon: 
   icon_pack: 
   name: Live Version
-  url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
+  url: http://dm1.pythonanywhere.com/
 - icon: 
   icon_pack: 
   name: PDF Proposal
@@ -26,16 +26,27 @@ links:
 - icon: 
   icon_pack: 
   name: Search Blog
-  url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
+  url: https://ankitrathore11.wordpress.com/search-engine/
 - icon: 
   icon_pack: 
   name: Classifier Blog
-  url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
+  url: https://ankitrathore11.wordpress.com/naive-bayes-classifier/
 - icon: 
   icon_pack: 
   name: Image Caption Blog
-  url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
-
+  url: https://ankitrathore11.wordpress.com/image-captioning/
+- icon: 
+  icon_pack: 
+  name: Video
+  url: https://bit.ly/2P65EQA
+- icon: 
+  icon_pack: 
+  name: GitHub
+  url: https://bit.ly/37ZRt8B
+- icon: 
+  icon_pack: 
+  name: LinkedIn
+  url: https://www.linkedin.com/in/ankitrathore25/
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -49,10 +60,6 @@ url_video: ""
 slides: example
 
 ---
-   
-**Phase I Demo**
-https://github.com/ankitrathore25/RateMyPhone
-#https://ratemyphone-api-heroku.herokuapp.com/
 
 **Abstract:**
 Whenever we want to buy mobile online, we search on the internet and check the rating of the mobile phones. We always search for high rating phones within the budget. But just looking at the rating we can not choose the product as the rating is solely given by the comparison or rating sites. Sometimes mobile phones are given good rating just because it is from a good brand but actually a phone’s popularity is measured by how many users are liking the mobile phone. So, there are reviewing sites and review section on the every comparison or e-commerce site. Sometimes, it is frustrating to read all the reviews and generally every product has many reviews from user viz positive, negative, neutral. For example, Amazon, provides the review of the mobile phones written by users but it includes many different parameters to evaluate the rating of the product. In some cases users are not happy from delivery so they give very less rating to the product but this rating doesn’t have to do with the mobile phones quality or features. 
