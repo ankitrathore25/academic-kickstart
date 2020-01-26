@@ -31,12 +31,42 @@ date_format = "Jan 2006"
 [[item]]
   organization = "The University of Texas at Arlington"
   organization_url = "https://www.uta.edu/"
+  title = "Distributed System"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-01-21"
+  date_end = ""
+  description = ""
+  
+ [[item]]
+  organization = "The University of Texas at Arlington"
+  organization_url = "https://www.uta.edu/"
+  title = "Software Engineering 1"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-01-21"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "The University of Texas at Arlington"
+  organization_url = "https://www.uta.edu/"
   title = "Data Analysis and Modelling Techniques"
   url = ""
   certificate_url = ""
   date_start = "2019-08-21"
   date_end = ""
   description = ""
+  
+ [[item]]
+  organization = "The University of Texas at Arlington"
+  organization_url = "https://www.uta.edu/"
+  title = "Artificial Intelligence 1"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-01-21"
+  date_end = ""
+  description = "" 
   
 [[item]]
   organization = "Netaji Subhas Institute of Technology"
