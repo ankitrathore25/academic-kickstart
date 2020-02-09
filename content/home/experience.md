@@ -26,11 +26,12 @@ date_format = "Jan 2006"
   date_end = "2019-08-09"
   description = """
   
- * Content Feed Personalization – Designed model through which publishers can target their audiences on basis of different demographics.
- * Created Rule Engine – A platform through which different rules can be created for targeting right audiences.
- * Demographics Prediction – Gender Prediction using Bayesian Model and Webpage tendency.
- * Demographics Prediction – Age Group Prediction using Support Vector Machine(SVM) Model, Singular Value Decomposition(SVD) and Feature Vector.
- * Currently working on extrapolating demographics prediction model to the user's salary bracket.
+ * Demographic Prediction: Engineered algorithms to predict the gender of the unknown non logged-in users with an accuracy of 81%, which subsequently resulted in 9% revenue growth of the company. 
+ * Built Rule Engine UI from scratch, which enables advertisers and publishers to control the spending and targeting of the audiences. 
+ * End-to-end responsible for writing RESTful APIs and streamlining data interaction between Rule Engine UI and database under Content Feed Personalization project. 
+ * Re-designed the auditing logging system and migrated it from MySql to the Cassandra Database. 
+ * Developed cron scheduling system for uploading and targeting the audiences using Google DoubleClick server and leveraged knowledge of OAuth2 authentication method to connect to the api. 
+ * Leveraged knowledge in Full Stack development with Git, Jira, Junit, Jenkins tools, Solr search, Redis Cache and kafka streaming.
   
   """
 
