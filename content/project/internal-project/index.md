@@ -19,26 +19,20 @@ links:
   icon_pack: 
   name: Live Version
   url: http://dm1.pythonanywhere.com/
+
 - icon: 
   icon_pack: 
-  name: PDF Proposal
-  url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
-- icon: 
-  icon_pack: 
-  name: Search Blog
+  name: Search Engine
   url: https://ankitrathore11.wordpress.com/search-engine/
 - icon: 
   icon_pack: 
-  name: Classifier Blog
+  name: Classifier
   url: https://ankitrathore11.wordpress.com/naive-bayes-classifier/
 - icon: 
   icon_pack: 
-  name: Image Caption Blog
+  name: Image Search
   url: https://ankitrathore11.wordpress.com/image-captioning/
-- icon: 
-  icon_pack: 
-  name: Video
-  url: https://bit.ly/2P65EQA
+
 - icon: 
   icon_pack: 
   name: GitHub
@@ -47,6 +41,14 @@ links:
   icon_pack: 
   name: LinkedIn
   url: https://www.linkedin.com/in/ankitrathore25/
+- icon: 
+  icon_pack: 
+  name: Video
+  url: https://bit.ly/2P65EQA
+- icon: 
+  icon_pack: 
+  name: PDF Proposal
+  url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
 url_code: ""
 url_pdf: ""
 url_slides: ""
