@@ -11,7 +11,7 @@ view: 2
 #   0 = Simple
 #   1 = Detailed
 #   2 = Stream
-list_format = 2
+list_format: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
