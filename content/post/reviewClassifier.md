@@ -1,0 +1,30 @@
++++
+title = "Review Classifier using Naive Bayes Algorithm and its comparison" 
+date = 2019-12-01T00:00:00
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Ankit Rathore"]
+
+#List format.
+#0 = Simple
+#1 = Detailed
+#2 = Stream
+list_format = 2
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["Server","Installation"]
+
+# Step to follow.
+Desable_Secure_boot_in_ASUS_machine="1) Enter Boot Menu."
+advancemenuimg=""
+
+
+#Optional featured image (relative to static/img/ folder).
+[header] 
+image = "" 
+caption = "" 
++++
+
+Link to the post: https://ankitrathore11.wordpress.com/naive-bayes-classifier/
+ 
