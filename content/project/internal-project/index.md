@@ -17,7 +17,7 @@ image:
 links:
 - icon: 
   icon_pack: 
-  name: Live Version
+  name: Live Demo
   url: http://dm1.pythonanywhere.com/
 
 - icon: 
@@ -33,22 +33,22 @@ links:
   name: Image Search
   url: https://ankitrathore11.wordpress.com/image-captioning/
 
-- icon: 
-  icon_pack: 
-  name: GitHub
-  url: https://bit.ly/37ZRt8B
-- icon: 
-  icon_pack: 
-  name: LinkedIn
-  url: https://www.linkedin.com/in/ankitrathore25/
+# - icon: 
+ # icon_pack: 
+ # name: GitHub
+ # url: https://bit.ly/37ZRt8B
+# - icon: 
+#  icon_pack: 
+#  name: LinkedIn
+#  url: https://www.linkedin.com/in/ankitrathore25/
 - icon: 
   icon_pack: 
   name: Video
   url: https://bit.ly/2P65EQA
-- icon: 
-  icon_pack: 
-  name: PDF Proposal
-  url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
+# - icon: 
+#  icon_pack: 
+#  name: PDF Proposal
+#  url: https://drive.google.com/file/d/1mpUqhYZUxo7h7I6BbgPz5znGK94TfawF/view?usp=sharing
 url_code: ""
 url_pdf: ""
 url_slides: ""
