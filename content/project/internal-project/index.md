@@ -44,7 +44,7 @@ links:
 - icon: 
   icon_pack: 
   name: Video
-  url: https://bit.ly/2P65EQA
+  url: https://www.youtube.com/watch?v=00xtU5qQH14
 # - icon: 
 #  icon_pack: 
 #  name: PDF Proposal
