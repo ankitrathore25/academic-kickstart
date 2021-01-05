@@ -1,5 +1,5 @@
 ---
-title: Search Engine for Cellphones & Accessories on Amazon
+title: Search Engine for Cellphones Amazon
 summary: A search engine built in Python which search cellphone from a dataset of 30,000+ items in dataset.
 
 tags:
