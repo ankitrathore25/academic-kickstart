@@ -32,8 +32,6 @@ links:
 slides: example
 
 ---
-![](searchengines.jpg)
-#{{< figure src="/static/img/searchengines.jpg" title="Search Engine" >}}
 # Information Retrieval
 Information retrieval is the science of searching for the information in the data and retrieving the documents which contains the information. Unlike the SQL query where only the matching results are showed, in information retrieval results some time may be mismatch the searched query. Results retrieved in IR System is based on the ranking. There are many methods in IR System like Standard boolean retrieval, Fuzzy retrieval, Vector Space Model, Latent Semantic Indexing, TF-IDF IR method. In this project I have implemented Term Frequency-Inverse Document Frequency (TF-IDF) based information retrieval model.
 For detailed background knowledge please checkout my blog [here](https://ankitrathore11.wordpress.com/search-engine/).
