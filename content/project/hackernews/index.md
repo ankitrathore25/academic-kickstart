@@ -1,6 +1,6 @@
 ---
 title: Hacker News App
-summary: React App which display latest top stories from Hacker News.
+summary: A React app which displays latest top stories from Hacker News using Hacker news Api.
 
 tags:
 - ReactJs
